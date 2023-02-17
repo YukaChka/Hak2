@@ -40,7 +40,7 @@ button{
     
 }
 .reg{
-    color: cadetblue;
+    color: #363636;
     
 }
 u{
@@ -64,10 +64,12 @@ u{
 }
 .regP{
     font-size: 35px;
+    color: aliceblue;
 }
 .descP{
     margin-top: 0px;
     font-size: 20px;
+    color: aliceblue;
 }
 
 
@@ -84,6 +86,7 @@ u{
 .desc2P{
     margin-top: 120%;
     font-size: 22px;
+    color: aliceblue;
 }
 .descP{
     font-size: 22px;

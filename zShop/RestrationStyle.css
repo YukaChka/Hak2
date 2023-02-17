@@ -64,10 +64,14 @@ button{
 }
 .regP{
     font-size: 35px;
+    color: aliceblue;
+
 }
 .descP{
     margin-top: 0px;
     font-size: 20px;
+    color: aliceblue;
+
 }
 
 
@@ -80,10 +84,13 @@ button{
     border-right: 4px solid white;
     width: 57%;
     margin-left: 10px;
+    
 }
 .desc2P{
     margin-top: 120%;
     font-size: 22px;
+    color: aliceblue;
+
 }
 .descP{
     font-size: 22px;
