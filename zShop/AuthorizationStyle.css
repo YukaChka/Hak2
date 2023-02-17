@@ -1,0 +1,111 @@
+.Label{
+   border-bottom: 3px solid;
+   border-color: lightgray;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.regBtn{
+    margin-top: 20px;
+    width: 200px;
+    height: 40px;
+    margin-left: 100px;
+    
+}
+.Name{
+    font-size: 23px;
+    text-align: center;
+    color: red;
+}
+input{
+    margin: 0 auto;
+    height: 23px;
+    border-radius: 8px;
+}
+
+.input-center{
+    display: flex;
+    flex-direction: column;
+}
+.btn-center{
+    display: flex;
+    flex-direction: row;
+}
+button{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    
+    
+}
+.reg{
+    color: cadetblue;
+    
+}
+u{
+    
+    color: cadetblue;
+}
+.mainDiv{
+    background-color: #363636;
+    margin: 0 auto;
+    border: 3px solid;
+    width: 900px;
+    margin-top: 10px;
+    border-radius: 20px;
+    display: flex;
+    
+    
+}
+.authBtn{
+   color: red;
+   font-size: 20px;
+}
+.regP{
+    font-size: 35px;
+}
+.descP{
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+
+.regDiv{
+    width: 400px;
+}
+.HatSpan{
+    display: flex;
+    flex-direction: column;
+    border-right: 4px solid white;
+    width: 57%;
+    margin-left: 10px;
+}
+.desc2P{
+    margin-top: 120%;
+    font-size: 22px;
+}
+.descP{
+    font-size: 22px;
+}
+a{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+
+#link{
+    text-transform: none;
+    text-decoration: none;
+    color:black;
+}
+.regInputDiv{
+    margin-top: 30%;
+}
+
+
+
+
+    
+
+ 
